@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CA</string>
+    <string name="fetch_button">Fetch</string>
+    <string name="url_text">Enter address</string>
+</resources>
